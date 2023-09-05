@@ -87,3 +87,14 @@ h1, h2, h3, h4{
 .gift-hint{
    margin-top: 0;
 }
+
+#footer{
+    width: 400px;
+    margin: 40px auto;
+    font-style: italic;
+    text-shadow: 0px 0px 3px black;
+}
+
+a{
+    color: ;
+}
