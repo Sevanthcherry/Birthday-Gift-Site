@@ -47,6 +47,26 @@ h1, h2, h3, h4{
     margin: 0 auto;
 }
 
+#gift-img-happy:hover{
+    background-image: url("https://media.giphy.com/media/yoJC2GnSClbPOkV0eA/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-mad:hover{
+    background-image: url("https://media.giphy.com/media/Rl1OuCM60ADV3bxu2O/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-genius:hover{
+    background-image: url("https://media.giphy.com/media/K5YC2HXUjUPjDM3kjj/giphy.gif");
+    background-size: cover;
+}
+
+#gift-img-badass:hover{
+    background-image: url("https://media.giphy.com/media/tWHk9WtvGC4Sc/giphy.gif");
+    background-size: cover;
+}
+
 .gift-section{
     margin-top: 50px;
 }
