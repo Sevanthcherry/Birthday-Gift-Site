@@ -67,6 +67,15 @@ h1, h2, h3, h4{
     background-size: cover;
 }
 
+#gift-img-cheers{
+    height: 200px;
+}
+
+#gift-img-cheers:hover{
+    background-image: url("https://media.giphy.com/media/nqWsNvKvdI14jCVL3M/giphy.gif");
+    
+}
+
 .gift-section{
     margin-top: 50px;
 }
